@@ -1,15 +1,16 @@
-# Tailwind CSS Playground
+# tailwindUI HR Managment
 
-A simple starter project for playing around with Tailwind in a proper PostCSS environment.
+Based on free sample components of TailwindUI and the TailwindCSS Playground
+A responsive dashboard from TailwindUI with Dropdowns using AlpineJS and Feather Icons build in the TailwindCSS Playground
 
 To get started:
 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/tailwindcss/playground.git tailwindcss-playground
+    git clone https://github.com/jan-heise/TailwindUI-HR-Managment.git tailwindUI-HR-Managment
 
-    cd tailwindcss-playground
+    cd tailwindUI-HR-Managment
     ```
 
 2. Install the dependencies:
